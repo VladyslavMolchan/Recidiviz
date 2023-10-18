@@ -1,3 +1,4 @@
+Link  [https://vladyslavmolchan.github.io/Recidiviz/](https://vladyslavmolchan.github.io/Recidiviz/)
 
 ## I used :
 
@@ -5,6 +6,6 @@
 - SCSS
 - GULP
 
-BEM, Adaptive
+BEM, Adaptive, Mobile navigation menu
 
 ![Website](./img/sreenshot.png)
