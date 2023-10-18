@@ -1,1 +1,1 @@
-$(document).ready((function(){$("#nav-icon3").click((function(){$(this).toggleClass("open"),$("#mobile-menu").toggleClass("open")}))}));
+$(document).ready((function(){$("#nav-icon3").click((function(){$(this).toggleClass("open"),$("#mobile-menu").toggleClass("open"),$("#mobile-menu").hasClass("open")?$("body").css("overflow","hidden"):$("body").css("overflow","auto")}))}));
